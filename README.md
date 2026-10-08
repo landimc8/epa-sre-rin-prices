@@ -21,4 +21,4 @@ paper/       final report
  
 ## Author
  
-Zildete Landim Crausaz [LinkedIn](https://www.linkedin.com/in/zildete-landim-crausaz))
+Zildete Landim Crausaz [LinkedIn](https://www.linkedin.com/in/zildete-landim-crausaz)
